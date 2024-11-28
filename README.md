@@ -63,3 +63,6 @@ Built-in modules:
    pip install -r requirements.txt
    sudo python Packet Sniffer.py
    ```
+## Limitations
+- **Root Access Required**: Can only be run with elevated privileges.
+- **Linux-Only**: Designed exclusively for Linux environments
